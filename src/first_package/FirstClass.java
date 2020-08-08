@@ -6,6 +6,7 @@ public class FirstClass {
 		System.out.println("Our first commit from local repo");
 		System.out.println("Our second commit from local repository");
 		System.out.println("Now I am on my Ata branch");
+		System.out.println("Ata branch next commit");
 	}
 
 }
